@@ -16,6 +16,7 @@ Actual *Version 0.2*
   * method execution can by serialized by serialization state of virtual machine (stack and heap)
  * Heterogeneous computing -Should run on: microcontrollers, small processor, mobile, desktop and servers processor
 * Logging - enable and disable in runtime
+* Aspect programming - special block in function - before invoke method (for contract checking, logging), after invoke (for result contract chceking, logging)
  
  
 # Modules
